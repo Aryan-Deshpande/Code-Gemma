@@ -1,6 +1,6 @@
 # Code-Gemma: 
 
-![Code-Gemma Logo](https://cdn.discordapp.com/attachments/835750351621718030/1216825982628004021/creation_6.jpg?ex=6601cc81&is=65ef5781&hm=8546b9302c21235aea03b2404c977594af35b43473ab04ec1008afd5da149fa6&)
+![Code-Gemma Logo](https://cdn.discordapp.com/attachments/1188865144114139157/1226970023021510656/04_m.jpg?ex=6626b3e1&is=66143ee1&hm=befef33e155ff5048c0a0758d8927351f7b651aa5010bf94aa9b1292e77d9869&)
 
 ## Overview
 
