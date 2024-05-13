@@ -35,7 +35,22 @@ yet to update
 
 To use GemmaDev in your projects, follow these simple steps:
 
-1. **Installation:**
+## Frontend Setup
+```sh
+git clone https://github.com/Aryan-Deshpande/GemmaDev
+```
+
+```sh
+npm i
+```
+
+```sh
+cd vue/project-alpha
+npm run dev
+```
+### Local:   http://localhost:5173/
+
+# **Project Setup:**
 
 yet to update
 
