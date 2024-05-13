@@ -1,17 +1,24 @@
 // router.js
-import { createRouter, createWebHashHistory } from 'vue-router';
-import Build from './components/Build.vue';
+import { createRouter, createWebHistory } from 'vue-router';
+import Build from './views/Build.vue';
+import About from './views/About.vue';
 
 const routes = [
   {
     path: '/build',
+    name: 'build',
     component: Build
-  }
-  // Add more routes as needed
+  },
+  {
+    path: '/about',
+    name: 'about',
+    component: About
+  },
+
 ];
 
 const router = createRouter({
-  history: createWebHashHistory(),
+  history: createWebHistory(),
   routes
 });
 

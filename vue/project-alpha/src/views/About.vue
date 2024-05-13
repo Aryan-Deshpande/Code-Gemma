@@ -1,57 +1,57 @@
 <template>
-  <div>
-    
-    <div>
-      <RouterView />
+  <header>
+    <div class="titlegrid">
+      <img class="logo" src="../assets/p_logo.jpg">
+      <h1 class="title">GemmaDEV</h1>
+      <p class="para"><u>Why Us ?</u></p>
+      <br>
+      <p class="para">Interplay between the Python interpreter and an LLM, our AI agent expertly automates Python debugging procedures while seamlessly synthesizing code, presenting a refined solution for your programming needs.</p>
     </div>
 
-  </div>
-  <footer>
-    <nav>
-    <div class="links">
-        <RouterLink to="/build"><button class='glowing-btn'><span class='glowing-txt'>B<span class='faulty-letter'>UI</span>LD</span></button></RouterLink>
-        &nbsp;
-        &nbsp;
-        &nbsp;
-        &nbsp;
-        <RouterLink to="/about"><button to="/about" class='glowing-btn'><span class='glowing-txt'>A<span class='faulty-letter'>BO</span>UT</span></button></RouterLink>
-    </div>
-  </nav>
-  </footer>
+  </header>
 </template>
 
-<script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router'
-</script>
+<style>
 
-<style scoped>
-
-nav a.router-link-exact-active {
-  color: rgba(0, 0, 0, 0.8);
-  text-shadow: none;
-  animation: none;
+.logo{
+  width:50px;
+  height: 50px;
+  align-self: flex-start;
 }
 
-nav a.router-link-exact-active:hover {
-  background-color: transparent;
+.para{
+  display: flex;
+  align-items: left;
+  flex-direction: column;
+
+  justify-content: center;
+  font-size: 3vmin;
+  font-weight: 900;
+  animation: fadeInAnimation ease-in 3s;
+
+  color:white;
+
+  text-shadow: 4cap;
+
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
 }
 
-.links{
-  position: absolute;
-  bottom: 40px;
-  right: 2%;
+.titlegrid{
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 .title {
   color: azure;
   font-family: Arial;
-}
+  top: 50px;
 
-.title {
-  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 10vmin;
+  font-size: 20vmin;
   font-weight: 900;
   animation: fadeInAnimation ease-in 3s;
 }
@@ -73,13 +73,13 @@ nav a.router-link-exact-active:hover {
   position: relative;
   color: var(--glow-color);
   cursor: pointer;
-  padding: 0.05em 0.3em;
-  border: 0.12em solid var(--glow-color);
-  border-radius: 0.25em;
+  padding: 0.35em 1em;
+  border: 0.05em solid var(--glow-color);
+  border-radius: 0.15em;
   background: none;
   perspective: 2em;
   font-family: "Raleway", sans-serif;
-  font-size: 1.5em;
+  font-size: 2em;
   font-weight: 900;
   letter-spacing: 1em;
 
@@ -93,24 +93,25 @@ nav a.router-link-exact-active:hover {
 }
 
 @keyframes fadeInAnimation {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
 }
 
 .glowing-txt {
   float: left;
   margin-right: -0.8em;
-  -webkit-text-shadow: 0 0 0.105em hsl(0, 5%, 4%),
+  -webkit-text-shadow: 0 0 0.125em hsl(0, 5%, 4%),
     0 0 0.45em var(--glow-color);
   -moz-text-shadow: 0 0 0.125em hsla(0, 0%, 6%, 0.936),
     0 0 0.45em var(--glow-color);
   text-shadow: 0 0 0.125em hsla(0, 2%, 9%, 0.974), 0 0 0.45em var(--glow-color);
   animation: text-flicker 3s linear infinite;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 .faulty-letter {
