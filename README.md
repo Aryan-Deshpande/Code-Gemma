@@ -49,7 +49,10 @@ npm i
 cd vue/project-alpha
 npm run dev
 ```
-### Local:   http://localhost:5173/
+
+```
+➜  Local:   http://localhost:5173/
+```
 
 ## Authors
 
