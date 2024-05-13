@@ -34,7 +34,28 @@ yet to update
 # **Project Setup:**
 To use GemmaDev in your projects, follow these simple steps:
 
-yet to update
+```sh
+git clone https://github.com/Aryan-Deshpande/GemmaDev
+```
+
+```sh
+cd automation
+# GemmaDev works in a single folder context, make sure to copy these files into the specfic directory you need
+sage.sh
+t_actual_inference.py
+track.py
+```
+
+```sh
+# For now manually enter the python file to debug in sage.sh, eg:
+PYTHON_FILE="x.py" 
+# Depending on your os platform run the bash script sage.sh, for windows:
+bash sage.sh
+```
+
+```
+Your Code Should Now Fix Itself :)
+```
 
 ## Frontend Setup
 ```sh
