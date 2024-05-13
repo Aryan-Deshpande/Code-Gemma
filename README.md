@@ -12,6 +12,9 @@ Self Debugging
 <br>
 Code Synthesis
 <br>
+
+![WhatsApp Image 2024-05-05 at 18 14 05_a49f2e0a](https://github.com/Aryan-Deshpande/GemmaDev/assets/72693780/2516b6d6-2226-4c26-96f3-b1dba994cc47)
+
 ## Agentic features
 Intermediate Code Generation and Understanding
 <br>
