@@ -7,8 +7,13 @@
 yet to update
 
 # Key Features
-yet to update
-
+## End-to-End features
+Self Debugging
+Code Synthesis
+## Agentic features
+Intermediate Code Generation and Understanding
+Folder level Context Understanding
+Optimized Local Inference of Large Language Models
 ## Fine-Tuning techniques utilized
 
 - **Supervised Fine-tuning:** Code-Gemma undergoes a rigorous supervised fine-tuning process to learn the nuances and intricacies of various programming languages. This ensures a solid foundation for understanding and generating code snippets.
@@ -21,13 +26,11 @@ yet to update
 
 yet to update
 
-To use Code-Gemma in your projects, follow these simple steps:
+To use GemmaDev in your projects, follow these simple steps:
 
 1. **Installation:**
 
 yet to update
-
-
 
 ## Authors
 
