@@ -31,7 +31,8 @@ yet to update
 - **Parameter-Efficient Fine-tuning (LoRA/QLoRA):** 
 yet to update
 
-## Getting Started
+# **Project Setup:**
+To use GemmaDev in your projects, follow these simple steps:
 
 yet to update
 
@@ -49,12 +50,6 @@ cd vue/project-alpha
 npm run dev
 ```
 ### Local:   http://localhost:5173/
-
-
-# **Project Setup:**
-To use GemmaDev in your projects, follow these simple steps:
-
-yet to update
 
 ## Authors
 
