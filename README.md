@@ -19,13 +19,12 @@ Folder level Context Understanding
 <br>
 Optimized Local Inference of Large Language Models
 <br>
-## Fine-Tuning techniques utilized
 
-- **Supervised Fine-tuning:** Code-Gemma undergoes a rigorous supervised fine-tuning process to learn the nuances and intricacies of various programming languages. This ensures a solid foundation for understanding and generating code snippets.
+## Large Language Model Fine-Tuning techniques used
 
-- **Parameter-Efficient Fine-tuning:** The utilization of LoRA and QLoRA allows Code-Gemma to efficiently adapt to different programming paradigms and problem-solving domains. This fine-tuning approach enhances the model's logical reasoning capabilities, making it adept at tackling complex programming challenges.
+- **Supervised Fine-tuning:** Gemma by Google undergoes a rigorous supervised fine-tuning process to learn the nuances and intricacies of various programming languages. This ensures a solid foundation for understanding and generating code snippets.
 
-- **Grounded Logic Understanding:** Code-Gemma aims to bridge the gap between natural language understanding and the grounded logic of programming languages. The model is trained to comprehend the context-specific logic inherent in coding tasks, enabling more accurate and context-aware code generation.
+- **Parameter-Efficient Fine-tuning (LoRA/QLoRA):** The utilization of LoRA and QLoRA allows Code-Gemma to efficiently adapt to different programming paradigms and problem-solving domains. This fine-tuning approach enhances the model's logical reasoning capabilities, making it adept at tackling complex programming challenges.
 
 ## Getting Started
 
