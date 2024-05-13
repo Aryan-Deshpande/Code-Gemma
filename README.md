@@ -25,15 +25,15 @@ Optimized Local Inference of Large Language Models
 
 ## Large Language Model Fine-Tuning techniques used
 
-- **Supervised Fine-tuning:** Gemma by Google undergoes a rigorous supervised fine-tuning process to learn the nuances and intricacies of various programming languages. This ensures a solid foundation for understanding and generating code snippets.
+- **Supervised Fine-tuning:** 
+yet to update
 
-- **Parameter-Efficient Fine-tuning (LoRA/QLoRA):** The utilization of LoRA and QLoRA allows ' GemmaDev '' to efficiently adapt to different programming paradigms and problem-solving domains. This fine-tuning approach enhances the model's logical reasoning capabilities, making it adept at tackling complex programming challenges.
+- **Parameter-Efficient Fine-tuning (LoRA/QLoRA):** 
+yet to update
 
 ## Getting Started
 
 yet to update
-
-To use GemmaDev in your projects, follow these simple steps:
 
 ## Frontend Setup
 ```sh
@@ -50,7 +50,9 @@ npm run dev
 ```
 ### Local:   http://localhost:5173/
 
+
 # **Project Setup:**
+To use GemmaDev in your projects, follow these simple steps:
 
 yet to update
 
