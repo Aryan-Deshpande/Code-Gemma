@@ -27,7 +27,7 @@ Optimized Local Inference of Large Language Models
 
 - **Supervised Fine-tuning:** Gemma by Google undergoes a rigorous supervised fine-tuning process to learn the nuances and intricacies of various programming languages. This ensures a solid foundation for understanding and generating code snippets.
 
-- **Parameter-Efficient Fine-tuning (LoRA/QLoRA):** The utilization of LoRA and QLoRA allows Code-Gemma to efficiently adapt to different programming paradigms and problem-solving domains. This fine-tuning approach enhances the model's logical reasoning capabilities, making it adept at tackling complex programming challenges.
+- **Parameter-Efficient Fine-tuning (LoRA/QLoRA):** The utilization of LoRA and QLoRA allows ' GemmaDev '' to efficiently adapt to different programming paradigms and problem-solving domains. This fine-tuning approach enhances the model's logical reasoning capabilities, making it adept at tackling complex programming challenges.
 
 ## Getting Started
 
