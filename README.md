@@ -7,30 +7,28 @@ The primary goal of this research is to enhance the capabilities of large langua
 <br>
 [camera-ready conference paper link](https://drive.google.com/file/d/1Xdrp0SXQsaosv2EwarC26UG92DhgwuVu/view?usp=sharing)
 
-# Key Features
-## End-to-End features
-- Self Debugging within a Folder Context 
+# Agentic features
+**Autonomous Code Synthesis:**
 
-- Code Synthesis 
+Enabled the model to autonomously generate code based on provided specifications, reducing the need for human-written boilerplate code.
+Implemented feedback loops where the model could iteratively improve code quality based on test results and predefined criteria.
+
+**Self-Debugging Capabilities:**
+
+Designed the model to autonomously identify and fix bugs in the code it generates.
+Integrated debugging protocols that allow the model to run diagnostic checks and apply corrections without human intervention.
 <br>
 
 ![Self Debugging Life Cycle](https://github.com/Aryan-Deshpande/GemmaDev/assets/72693780/2516b6d6-2226-4c26-96f3-b1dba994cc47)
 
-## Agentic features
-- Intermediate Code Generation and Understanding
-  
-- Folder level Context Understanding
-  
-- Optimized Local Inference of Large Language Models
-<br>
-
 ## Large Language Model Fine-Tuning techniques used
 
 - **Supervised Fine-tuning:** 
-yet to update
+Applied supervised fine-tuning (SFT) using the Hugging Face library.
+Leveraged high-performance computing resources, specifically the NVIDIA A100 Tensor Core GPU with 40GB of VRAM, to maximize training efficiency.
 
 - **Parameter-Efficient Fine-tuning (LoRA/QLoRA):** 
-yet to update
+Employed Parameter Efficient Tuning (PEFT) to adapt the model to specific code-related tasks without extensive computational resources. Implemented quantization using Low-Rank Adaptation/QLow-Rank Adaptation weights. Loaded the model in a 4-bit (4b) version using normal float-4 (NF4) to reduce memory footprint while maintaining performance.
 
 # **Project Setup:**
 To use GemmaDev in your projects, follow these simple steps:
