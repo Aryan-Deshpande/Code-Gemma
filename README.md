@@ -1,6 +1,7 @@
 # GemmaDev: 
-[Camera Ready Paper](https://drive.google.com/file/d/1Xdrp0SXQsaosv2EwarC26UG92DhgwuVu/view?usp=sharing)
-![GemmaDev Logo](https://drive.google.com/file/d/1AWWw3-ZVHTfXBrZnbEUHpL9Vc5b27LL2/view?usp=sharing)
+[Download the Camera Ready Paper](https://drive.google.com/file/d/1Xdrp0SXQsaosv2EwarC26UG92DhgwuVu/view?usp=sharing)
+![image](https://github.com/Aryan-Deshpande/GemmaDev/assets/72693780/a865d8f0-e436-4153-8bed-52a84c2e58b4)
+
 
 ## Overview
 
