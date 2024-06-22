@@ -8,9 +8,9 @@ The primary goal of this research is to enhance the capabilities of large langua
 
 # Key Features
 ## End-to-End features
-- Self Debugging
+- Self Debugging within a Folder Context
 <br>
-- Code Synthesis
+- Code Synthesis 
 <br>
 
 ![Camera Ready Conference Paper](https://drive.google.com/file/d/1Xdrp0SXQsaosv2EwarC26UG92DhgwuVu/view?usp=sharing)
