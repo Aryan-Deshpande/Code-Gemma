@@ -1,11 +1,10 @@
 # GemmaDev: 
-[Download the Camera Ready Paper](https://drive.google.com/file/d/1Xdrp0SXQsaosv2EwarC26UG92DhgwuVu/view?usp=sharing)
 ![image](https://github.com/Aryan-Deshpande/GemmaDev/assets/72693780/a865d8f0-e436-4153-8bed-52a84c2e58b4)
 
 
 ## Overview
 
-yet to update
+
 
 # Key Features
 ## End-to-End features
@@ -13,6 +12,8 @@ Self Debugging
 <br>
 Code Synthesis
 <br>
+
+![Camera Ready Conference Paper](https://drive.google.com/file/d/1Xdrp0SXQsaosv2EwarC26UG92DhgwuVu/view?usp=sharing)
 
 ![Self Debugging Life Cycle](https://github.com/Aryan-Deshpande/GemmaDev/assets/72693780/2516b6d6-2226-4c26-96f3-b1dba994cc47)
 
