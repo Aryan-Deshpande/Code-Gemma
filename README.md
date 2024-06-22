@@ -3,7 +3,7 @@
 
 
 ## Overview
-
+The primary goal of this research is to enhance the capabilities of large language models (LLMs) for specific programming tasks, such as code synthesis and self-debugging. This involves fine-tuning an advanced LLM to achieve high proficiency in generating and debugging code autonomously, incorporating agentic features that enable the model to perform tasks with minimal human intervention
 
 
 # Key Features
