@@ -1,5 +1,5 @@
 # GemmaDev: 
-
+![Camera Ready Paper](https://drive.google.com/file/d/1Xdrp0SXQsaosv2EwarC26UG92DhgwuVu/view?usp=sharing)
 ![GemmaDev Logo](https://cdn.discordapp.com/attachments/835750351621718030/1236933280327274558/image.png?ex=6639cf63&is=66387de3&hm=132de73041f8a781d7103b05f6ca0c42bf6a26e9784275361576804edeecc97b&)
 
 ## Overview
