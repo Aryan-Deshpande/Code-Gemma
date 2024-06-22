@@ -9,8 +9,8 @@ The primary goal of this research is to enhance the capabilities of large langua
 
 # Key Features
 ## End-to-End features
-- Self Debugging within a Folder Context
-<br>
+- Self Debugging within a Folder Context 
+
 - Code Synthesis 
 <br>
 
@@ -18,9 +18,9 @@ The primary goal of this research is to enhance the capabilities of large langua
 
 ## Agentic features
 - Intermediate Code Generation and Understanding
-<br>
+  
 - Folder level Context Understanding
-<br>
+  
 - Optimized Local Inference of Large Language Models
 <br>
 
