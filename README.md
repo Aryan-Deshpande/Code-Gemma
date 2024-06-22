@@ -4,7 +4,7 @@
 
 ## Overview
 The primary goal of this research is to enhance the capabilities of large language models (LLMs) for specific programming tasks, such as code synthesis and self-debugging. This involves fine-tuning an advanced LLM to achieve high proficiency in generating and debugging code autonomously, incorporating agentic features that enable the model to perform tasks with minimal human intervention
-
+[camera-ready conference paper link](https://drive.google.com/file/d/1Xdrp0SXQsaosv2EwarC26UG92DhgwuVu/view?usp=sharing)
 
 # Key Features
 ## End-to-End features
@@ -13,16 +13,14 @@ The primary goal of this research is to enhance the capabilities of large langua
 - Code Synthesis 
 <br>
 
-![Camera Ready Conference Paper](https://drive.google.com/file/d/1Xdrp0SXQsaosv2EwarC26UG92DhgwuVu/view?usp=sharing)
-
 ![Self Debugging Life Cycle](https://github.com/Aryan-Deshpande/GemmaDev/assets/72693780/2516b6d6-2226-4c26-96f3-b1dba994cc47)
 
 ## Agentic features
-Intermediate Code Generation and Understanding
+- Intermediate Code Generation and Understanding
 <br>
-Folder level Context Understanding
+- Folder level Context Understanding
 <br>
-Optimized Local Inference of Large Language Models
+- Optimized Local Inference of Large Language Models
 <br>
 
 ## Large Language Model Fine-Tuning techniques used
