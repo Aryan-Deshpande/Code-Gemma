@@ -8,12 +8,11 @@ The primary goal of this research is to enhance the capabilities of large langua
 [camera-ready conference paper link](https://drive.google.com/file/d/1Xdrp0SXQsaosv2EwarC26UG92DhgwuVu/view?usp=sharing)
 
 # Agentic features
-**Autonomous Code Synthesis:**
-
+**`Autonomous Code Synthesis:`**
 Enabled the model to autonomously generate code based on provided specifications, reducing the need for human-written boilerplate code.
 Implemented feedback loops where the model could iteratively improve code quality based on test results and predefined criteria.
 
-**Self-Debugging Capabilities:**
+**`Self-Debugging Capabilities:`**
 
 Designed the model to autonomously identify and fix bugs in the code it generates.
 Integrated debugging protocols that allow the model to run diagnostic checks and apply corrections without human intervention.
@@ -23,11 +22,11 @@ Integrated debugging protocols that allow the model to run diagnostic checks and
 
 ## Large Language Model Fine-Tuning techniques used
 
-- **Supervised Fine-tuning:** 
+- **`Supervised Fine-tuning:`** 
 Applied supervised fine-tuning (SFT) using the Hugging Face library.
 Leveraged high-performance computing resources, specifically the NVIDIA A100 Tensor Core GPU with 40GB of VRAM, to maximize training efficiency.
 
-- **Parameter-Efficient Fine-tuning (LoRA/QLoRA):** 
+- **`Parameter-Efficient Fine-tuning (LoRA/QLoRA):`** 
 Employed Parameter Efficient Tuning (PEFT) to adapt the model to specific code-related tasks without extensive computational resources. Implemented quantization using Low-Rank Adaptation/QLow-Rank Adaptation weights. Loaded the model in a 4-bit (4b) version using normal float-4 (NF4) to reduce memory footprint while maintaining performance.
 
 # **Project Setup:**
